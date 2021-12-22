@@ -8,7 +8,7 @@ int main()
     cout << "sei pinus?[y/n]\n";
     cin >>answ;
     if (answ != 'n' && answ!='y')
-    cout << "pongo pigmeus\n";
+    cout << "palle\n";
     else if (answ=='y')
     cout << "ciao pinus\n";
     else
