@@ -14,4 +14,6 @@ int main()
     else
     cout << "ciao mis\n";
 
+    cout<<"addio\n";
+
 }
